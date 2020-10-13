@@ -1,0 +1,50 @@
+[
+	{
+		"id": 1,
+		"title": "Who We Are",
+		"description": "We are a boutique consultancy that provide automation solutions with strategies to help accelerate growth in your business operations’ scaling journey. We build the technology specific to your business needs and provide you the support, mentoring, and coaching you need to help your business succeed.",
+		"image": "/images/helmet.png",
+		"alt": "Helmet",
+		"sub1Title": "We Work With",
+		"sub1Description": "We work with start-ups, small businesses, companies, charities, schools, and NGOs to create processes, and systems that enable and support growth.",
+		"sub1Image": "/images/business.png",
+		"sub1Alt": "Business",
+		"sub2Title": "Our Project Range",
+		"sub2Description": "Our projects range from single-purpose tasks for small businesses to highly complex, multi-platform systems for larger teams.",
+		"sub2Image": "/images/width.png",
+		"sub2Alt": "Range",
+		"direction": "row"
+	},
+	{
+		"id": 2,
+		"title": "What We Offer",
+		"description": "We work closely with your team, technical and ‘non-technical’ users alike, to provide a solution package specific for your business needs. We assist in putting processes and structures in place where none exist. We support administration services and provide configuration and optimisation of your current software and services, such as Google G Suite, Microsoft 365, Trello, JIRA, Confluence, etc… We support and educate businesses on the benefits and best practices of “remote work” for their teams and individuals.",
+		"image": "/images/paint-bucket.png",
+		"alt": "Paint Bucket",
+		"sub1Title": "Process Automations",
+		"sub1Description": "We introduce and manage your business process automations, by creating task automations for your Google (Docs, Sheets, Slides, Forms), Microsoft (Outlook, Word, Excel, PowerPoint, Access) or developing web-based or desktop applications specific to your teams’ process workflow.",
+		"sub1Image": "/images/workflow.png",
+		"sub1Alt": "Workflow",
+		"sub2Title": "Mentoring and Coaching",
+		"sub2Description": "We deliver mentoring and coaching programs for teams and individuals who want to adopt the Agile methods in their project and task management process. This also includes the introduction of management tools such as Trello and JIRA if desired.",
+		"sub2Image": "/images/teacher.png",
+		"sub2Alt": "Teacher",
+		"direction": "row-reverse"
+	},
+	{
+		"id": 3,
+		"title": "How We Work",
+		"description": "We value friendship and great coffee. So, first and foremost, we establish a great relationship centred on open, honest and transparent communication. Based on your requirements, we would engage in an introductory discussion to understand your business needs. This includes a consultation session or two, to address a few questions and concerns which could be in the form of a phone call, an online meeting, or a face-to-face meeting, in your office or a coffee shop near you… We believe in getting it right the first time, so we all need to be on the same page. Before providing you with the quote on the cost of the project or service, you will get a short document listing the scope of the work and expectation. Once we are all in agreement, where all the details are clarified and approved by you, we will begin working on your project.",
+		"image": "/images/bulbs.png",
+		"alt": "Bulb",
+		"sub1Title": "Continuous Feedback",
+		"sub1Description": "You will be kept in the loop throughout the entire journey of the project. We will conduct frequent, short meetings or discussions on the project’s updates, progress, wins and challenges.",
+		"sub1Image": "/images/update.png",
+		"sub1Alt": "Update",
+		"sub2Title": "Retrospective",
+		"sub2Description": "Based on the type of project or service, if required, there will be an official handover and a ‘retrospective’ discussion.",
+		"sub2Image": "/images/meeting.png",
+		"sub2Alt": "Meeting",
+		"direction": "row"
+	}
+]
